@@ -4,10 +4,7 @@
  */
 package ressystem;
 
-/**
- *
- * @author phisan
- */
+
 public class Movie {
     private String mName;
     private int mTime;
