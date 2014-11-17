@@ -4,12 +4,6 @@
  */
 package ressystem;
 
-import java.util.ArrayList;
-
-/**
- *
- * @author phisan
- */
 public class MainTable {
         private ArrayList<Theatre> theatreList =
                 new ArrayList<>();
