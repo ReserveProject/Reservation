@@ -4,10 +4,6 @@
  */
 package ressystem;
 
-/**
- *
- * @author phisan
- */
 public class ResSystem {
 
     /**
