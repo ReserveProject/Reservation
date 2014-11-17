@@ -4,12 +4,6 @@
  */
 package ressystem;
 
-import java.util.ArrayList;
-
-/**
- *
- * @author phisan
- */
 public class Theatre {
     public Theatre(String name,int id){
         this.name = name;this.id = id;
